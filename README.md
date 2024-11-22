@@ -7,4 +7,6 @@ I'm a data science enthusiast with a strong foundation in economics and finance,
 - **Machine Learning**: Random Forest, GARCH, Monte Carlo Simulations, Hugging Face, VAR, Regression
 - **Data Science**: Forecasting, Data Classification, NLP, Data Extraction
 - **Tools**: Google Cloud, AWS, Spark, Flask, Node.js
-- **Finance**: Portfolio Analysis, CAPM, CFA (ongoing) 
+- **Finance**: Portfolio Analysis, CAPM, CFA (ongoing)
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, Looker
+
